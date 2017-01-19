@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Piadero</string>
+    <string name="texto_frase_dia">Nova frase</string>
+    <string name="Nova_piada">Nova Piada</string>
+</resources>
